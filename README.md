@@ -27,6 +27,7 @@ This repository contains my personal solutions to these problems, automatically 
 | [0189-rotate-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0283-move-zeroes) |
+| [0912-sort-an-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,12 +53,14 @@ This repository contains my personal solutions to these problems, automatically 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -134,4 +137,24 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
