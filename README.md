@@ -68,4 +68,16 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0283-move-zeroes) |
+## String
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Greedy
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
