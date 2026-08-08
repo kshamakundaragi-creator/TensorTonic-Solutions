@@ -24,6 +24,7 @@ This repository contains my personal solutions to these problems, automatically 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -37,6 +38,7 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
@@ -76,6 +78,7 @@ This repository contains my personal solutions to these problems, automatically 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0344-reverse-string) |
 ## String
