@@ -37,6 +37,7 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,4 +119,12 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
