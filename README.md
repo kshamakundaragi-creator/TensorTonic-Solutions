@@ -29,6 +29,7 @@ This repository contains my personal solutions to these problems, automatically 
 | ------- |
 | [0001-two-sum](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ This repository contains my personal solutions to these problems, automatically 
 | ------- |
 | [0056-merge-intervals](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ This repository contains my personal solutions to these problems, automatically 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0242-valid-anagram) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Greedy
 |  |
