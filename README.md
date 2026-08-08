@@ -17,6 +17,7 @@ This repository contains my personal solutions to these problems, automatically 
 | ------- |
 | [0001-two-sum](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0057-insert-interval) |
@@ -29,6 +30,7 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0242-valid-anagram) |
 ## Math
@@ -112,4 +114,8 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
