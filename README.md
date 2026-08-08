@@ -34,6 +34,7 @@ This repository contains my personal solutions to these problems, automatically 
 | [0036-valid-sudoku](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0242-valid-anagram) |
+| [2351-first-letter-to-appear-twice](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
+| [2351-first-letter-to-appear-twice](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -90,6 +92,7 @@ This repository contains my personal solutions to these problems, automatically 
 | [0242-valid-anagram](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0344-reverse-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2351-first-letter-to-appear-twice](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +129,7 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0231-power-of-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Recursion
 |  |
 | ------- |
