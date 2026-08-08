@@ -71,12 +71,14 @@ This repository contains my personal solutions to these problems, automatically 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0344-reverse-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/2259-remove-digit-from-number-to-maximize-result) |
