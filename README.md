@@ -42,6 +42,7 @@ This repository contains my personal solutions to these problems, automatically 
 | [0009-palindrome-number](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -86,6 +87,7 @@ This repository contains my personal solutions to these problems, automatically 
 | [0189-rotate-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
 | ------- |
@@ -157,4 +159,8 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
