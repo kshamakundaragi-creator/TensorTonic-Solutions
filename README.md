@@ -17,10 +17,12 @@ This repository contains my personal solutions to these problems, automatically 
 | ------- |
 | [0001-two-sum](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +31,20 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
