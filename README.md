@@ -18,6 +18,7 @@ This repository contains my personal solutions to these problems, automatically 
 | [0001-two-sum](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0057-insert-interval) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
