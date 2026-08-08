@@ -16,6 +16,7 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0001-two-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0009-palindrome-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
