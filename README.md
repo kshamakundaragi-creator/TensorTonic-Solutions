@@ -22,6 +22,7 @@ This repository contains my personal solutions to these problems, automatically 
 | [0152-maximum-product-subarray](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,8 @@ This repository contains my personal solutions to these problems, automatically 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/kshamakundaragi-creator/TensorTonic-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
